@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Carros</string>
+    <string name="Color">Color</string>
+    <string name="Crear_Auto">Add Auto</string>
+    <string name="Guardar">Save</string>
+    <string name="Limpiar">Clean</string>
+    <string name="Listar_Autos">Show cars</string>
+    <string name="Modelo">Model</string>
+    <string name="Marca">brand</string>
+    <string name="Placa">ID</string>
+    <string name="Precio">Cost</string>
+    <string name="agregarCarro">Add Car</string>
+    <string name="azul">Blue</string>
+    <string name="blanco">White</string>
+    <string name="mensaje_guardado">Car Saved</string>
+    <string name="negro">Black</string>
+    <string name="rojo">Red</string>
+    <string name="Chevrolet">Chevrolet</string>
+    <string name="año1">2005</string>
+    <string name="año2">2010</string>
+    <string name="año3">2015</string>
+    <string name="año4">2008</string>
+    <string name="año5">2017</string>
+    <string name="kia">kia</string>
+    <string name="mazda">Mazda</string>
+</resources>
